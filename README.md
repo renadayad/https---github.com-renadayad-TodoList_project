@@ -14,7 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<img width="1728" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٠٣ م" src="https://user-images.githubusercontent.com/97846079/194325479-da627e7d-8a83-4787-8427-b92fad6231bf.png">
-<img width="1728" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٠٩ م" src="https://user-images.githubusercontent.com/97846079/194325493-8de38a28-1cd5-4012-9051-d6ac8fc08709.png">
-<img width="1728" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ١٦ م" src="https://user-images.githubusercontent.com/97846079/194325499-c12e621d-a7f0-44bf-96ad-c7c66ca2bff7.png">
-<img width="1728" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٣١ م" src="https://user-images.githubusercontent.com/97846079/194325508-b5837277-933b-40b6-a64c-efc7690dc63b.png">
+
+<img width="1197" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٠٣ م" src="https://user-images.githubusercontent.com/97846079/194327008-fea6f644-af77-4a7f-abaf-3e1c34536769.png">
+<img width="1198" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٠٩ م" src="https://user-images.githubusercontent.com/97846079/194327014-df8a9c26-e0ee-45aa-bcb7-636198b4ad50.png">
+<img width="1177" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ١٦ م" src="https://user-images.githubusercontent.com/97846079/194327021-8f3a7fc1-e479-4647-a5ef-26bcef34adae.png">
+<img width="1182" alt="‏لقطة الشاشة ١٤٤٤-٠٣-١٠ في ٤ ٢٧ ٣١ م" src="https://user-images.githubusercontent.com/97846079/194327024-560d24b2-b873-44b4-99eb-a891cd77baab.png">
